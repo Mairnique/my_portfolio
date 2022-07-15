@@ -38,7 +38,7 @@ const Footer = () => {
   return (
     <>
       <h2 className="head-text">Contact Maribelle</h2>
-      <p>i
+      <p>
         <i>I will respond in 48 hours.</i>
       </p>
       <div className="app__footer-cards">

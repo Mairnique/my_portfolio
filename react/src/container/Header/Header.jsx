@@ -37,6 +37,12 @@ const Header = () => (
           <p>― Paulo Coelho, <i>The Alchemist</i></p>
   
         </div>
+        
+        <div className="tag-cmp app__flex">
+          <p className="p-text">Support me by buying my piano compositions <a href="https://music.maribellechu.com" target="_blank" rel="noreferrer">here</a></p>
+  
+        </div>
+
         {/* <div className="bottom-arrow">
           <span>↙</span><br></br>
           <span>↤</span><br></br>
