@@ -39,9 +39,9 @@ const Testimonial = () => {
 
               <p className="p-text">{testimonials[currentIndex].feedback}</p>
               <br />
-              <p className="p-text">
+              {/* <p className="p-text">
                 <a href="https://tinyurl.com/maribelle-testimonial" target="_blank" rel="noreferrer noopener">Testimonial Submission</a>
-              </p>
+              </p> */}
               <div>
                 <h4 className="bold-text">{testimonials[currentIndex].name}</h4>
                 <h5 className="p-text">{testimonials[currentIndex].company}</h5>

@@ -39,7 +39,7 @@ const Header = () => (
         </div>
         
         <div className="tag-cmp app__flex">
-          <p className="p-text">Support me by buying my piano compositions <a href="https://music.maribellechu.com" target="_blank" rel="noreferrer">here</a></p>
+          <p className="p-text">Support me by buying my piano compositions <a href="https://chumaribelle.wixsite.com/music" target="_blank" rel="noreferrer">here</a></p>
   
         </div>
 
